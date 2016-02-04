@@ -13,6 +13,8 @@
 *.dylib
 *.dll
 
+/xcode4/*
+
 # Fortran module files
 *.mod
 
